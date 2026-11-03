@@ -11,8 +11,8 @@
   "ads": {
     "mainAds": "admob",
     "backupAds": "none",
-    "adStatus": true,
-    "interstitialInterval": 4,
+    "adStatus": false,
+    "interstitialInterval": 3,
     "bannerStatus": false,
     "interstitialStatus": true,
     "nativeStatus": true,
