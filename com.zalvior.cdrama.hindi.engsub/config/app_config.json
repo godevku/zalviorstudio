@@ -1,9 +1,9 @@
 {
   "apps": {
     "status": true,
-    "featured_categories": "Action, Fantasy, Mystery, Romance, Martial Arts, Adventure, Drama, Historical, Summer Youth Memories, Cafe of Love",
+    "featured_categories": "Action, Fantasy, Mystery, Romance, Martial Arts, Adventure, Drama, Historical",
     "redirect_url": "",
-    "base_url": "https://cdrama.lumixa.id/",
+    "base_url": "https://iwscloud.in/Apps_iws/App023_Chinese_Drama/",
     "api_key": "cda11RhQPc1z2limGFWoxvjwrCSfpJEYOqHsB38AZgTekNVXM9",
     "privacy_policy_url": "https://zalviorstudio.blogspot.com/p/privacy-policy-chinese-drama.html",
     "more_apps_url": "https://play.google.com/store/apps/developer?id=Zalvior+Studio"
@@ -11,7 +11,7 @@
   "ads": {
     "mainAds": "admob",
     "backupAds": "none",
-    "adStatus": false,
+    "adStatus": true,
     "interstitialInterval": 3,
     "bannerStatus": false,
     "interstitialStatus": true,
