@@ -1,0 +1,141 @@
+{
+  "status": "ok",
+  "count": 15,
+  "categories": [
+    {
+      "title": "The Chaebol's Fake Fiancée",
+      "short_description": "A struggling freelance designer is hired by a cold-hearted billionaire heir to pretend to be his fiancée to inherit his family's company.",
+      "thumb_prompt": "A cinematic Korean drama poster, a handsome arrogant Asian male CEO in a luxury tailored suit and a beautiful Asian female in an elegant designer dress, looking at each other intensely. Modern Seoul city skyline at night, romantic comedy aesthetic, highly detailed, photorealistic, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=pKmSdY56VtY",
+        "https://www.youtube.com/watch?v=eRsGyueVLvQ"
+      ]
+    },
+    {
+      "title": "Moonlight Over Joseon",
+      "short_description": "A rebellious Crown Prince uncovers a political conspiracy while falling in love with a noblewoman who disguises herself as a royal guard.",
+      "thumb_prompt": "A cinematic poster of a handsome Korean man in royal Joseon dynasty Hanbok and a beautiful Korean woman in a guard's uniform. Traditional Korean palace in the background under a full moon, historical romantic K-drama aesthetic, dramatic lighting, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+        "https://www.youtube.com/watch?v=pKmSdY56VtY"
+      ]
+    },
+    {
+      "title": "Goblin's Last Promise",
+      "short_description": "An immortal being must find his destined human bride to break his 900-year-old curse while battling evil spirits in modern-day Seoul.",
+      "thumb_prompt": "A cinematic poster of a melancholic, handsome Korean man in a long dark winter coat and a bright-smiling Korean female student with a red scarf. Falling snow in a beautiful autumn street, fantasy romance K-drama aesthetic, magical glowing particles, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=PVGeMJaYkKs",
+        "https://www.youtube.com/watch?v=R6MlUcmOul8"
+      ]
+    },
+    {
+      "title": "Hearts in the Crossfire",
+      "short_description": "An elite special forces captain and a passionate trauma surgeon find their romance tested during a dangerous peacekeeping mission in a war-torn country.",
+      "thumb_prompt": "A dramatic Korean romance poster, a handsome Asian male soldier in military desert camouflage and a beautiful female doctor in a white medical coat and scrubs, standing in a desert camp. Action romance K-drama aesthetic, cinematic lighting, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=aEJTQhht_O4",
+        "https://www.youtube.com/watch?v=Y-rmzh0PI3c"
+      ]
+    },
+    {
+      "title": "Seoul High Sweethearts",
+      "short_description": "A poor but optimistic transfer student stands up against the most popular and wealthiest boy in high school, sparking an unexpected romance.",
+      "thumb_prompt": "A bright and cheerful Korean youth drama poster, a handsome, wealthy-looking Asian schoolboy and a cute Asian schoolgirl in modern Korean high school uniforms standing near a locker. Sunny day, aesthetic and nostalgic, teen romance, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=mN0zPOpADL4",
+        "https://www.youtube.com/watch?v=LsGZ_2RuJEQ"
+      ]
+    },
+    {
+      "title": "The Penthouse Secrets",
+      "short_description": "Three wealthy women living in a luxury high-rise apartment complex will do anything to protect their children and hide their dark secrets.",
+      "thumb_prompt": "A modern Korean suspense drama poster, elegant Asian women in luxurious high-fashion dresses standing in a lavish penthouse overlooking Seoul. Moody, dramatic, dark aesthetic, betrayal and revenge theme, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+        "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+      ]
+    },
+    {
+      "title": "Emergency Room Romance",
+      "short_description": "Five best friends who work as surgeons in the same hospital navigate life, death, and romantic entanglements in the emergency room.",
+      "thumb_prompt": "A heartwarming medical K-drama poster, a group of friendly Asian doctors in blue scrubs and white coats walking together in a bright, modern hospital hallway, smiling and laughing. Slice of life aesthetic, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
+        "https://www.youtube.com/watch?v=aEJTQhht_O4"
+      ]
+    },
+    {
+      "title": "Shining Seoul Idols",
+      "short_description": "A group of passionate K-pop trainees face grueling practices, fierce competition, and secret romances as they prepare for their highly anticipated debut.",
+      "thumb_prompt": "A vibrant K-pop drama poster, a handsome Asian male idol and a beautiful female idol trainee holding microphones on a glowing neon stage, wearing stylish stage outfits. Music and youth drama aesthetic, bright lights, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=R6MlUcmOul8",
+        "https://www.youtube.com/watch?v=PVGeMJaYkKs"
+      ]
+    },
+    {
+      "title": "A Whisper Through Time",
+      "short_description": "A modern-day profiler communicates with a detective from the 1990s through a mysterious walkie-talkie to solve a series of cold cases.",
+      "thumb_prompt": "A thriller K-drama poster, a sharp Asian male detective holding an old walkie-talkie in a dark alley with rain falling. Split screen effect showing a vintage 1990s detective on the other side, suspenseful and dark aesthetic, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=PVGeMJaYkKs",
+        "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+      ]
+    },
+    {
+      "title": "Sweet Itaewon Nights",
+      "short_description": "An ex-convict opens a small pub in a bustling district and vows to build a food empire to get revenge on the CEO who ruined his life.",
+      "thumb_prompt": "A modern Korean drama poster, a tough-looking Asian man with a short haircut in casual street clothes standing in front of a glowing pub at night in Itaewon. Cool, urban street aesthetic, neon lights, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+        "https://www.youtube.com/watch?v=LsGZ_2RuJEQ"
+      ]
+    },
+    {
+      "title": "My Alien Neighbor",
+      "short_description": "A famous but lonely actress discovers that her new neighbor is an alien who has been trapped on Earth for 400 years and is looking for a way home.",
+      "thumb_prompt": "A romantic sci-fi K-drama poster, a handsome, flawless Asian man in a sleek suit standing next to a glamorous Asian actress in a red carpet dress. A subtle starry night sky in the background, elegant romance aesthetic, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=pKmSdY56VtY",
+        "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+      ]
+    },
+    {
+      "title": "Justice and Love",
+      "short_description": "A rookie female attorney with a unique way of thinking partners with a cynical senior lawyer to win near-impossible courtroom battles.",
+      "thumb_prompt": "A legal K-drama poster, a smart Asian female lawyer carrying a briefcase and a tall, sharp-looking male lawyer standing confidently inside a grand courtroom. Professional, modern legal aesthetic, warm lighting, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+        "https://www.youtube.com/watch?v=Y-rmzh0PI3c"
+      ]
+    },
+    {
+      "title": "The Demon Catcher's Noodle Shop",
+      "short_description": "By day, they are employees at a famous noodle shop. By night, they use their supernatural abilities to hunt down evil spirits preying on humans.",
+      "thumb_prompt": "An action fantasy K-drama poster, a group of cool Asian youths wearing matching red tracksuits, standing powerfully in a dark alley with glowing magical energy around their fists. Urban fantasy aesthetic, dynamic lighting, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=mN0zPOpADL4",
+        "https://www.youtube.com/watch?v=PVGeMJaYkKs"
+      ]
+    },
+    {
+      "title": "Winter's First Snow",
+      "short_description": "A tragic accident causes a famous architect to lose his memory, leaving his first love to try and rebuild their past before his condition worsens.",
+      "thumb_prompt": "A classic melodrama K-drama poster, a beautiful Asian woman crying softly while hugging a confused but handsome Asian man. Beautiful snowy winter landscape, tragic and emotional aesthetic, soft blue and white tones, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=aEJTQhht_O4",
+        "https://www.youtube.com/watch?v=eRsGyueVLvQ"
+      ]
+    },
+    {
+      "title": "Startup Dreams",
+      "short_description": "A group of ambitious young entrepreneurs navigate the cutthroat world of Korea's Silicon Valley to turn their tech startup into a global unicorn.",
+      "thumb_prompt": "A modern Korean youth drama poster, a group of energetic Asian young adults in casual tech-startup clothes looking at a glowing laptop screen together in a modern co-working space. Bright, inspiring, and modern aesthetic, no text.",
+      "episodes": [
+        "https://www.youtube.com/watch?v=R6MlUcmOul8",
+        "https://www.youtube.com/watch?v=LsGZ_2RuJEQ"
+      ]
+    }
+  ]
+}
