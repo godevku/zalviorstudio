@@ -1,7 +1,7 @@
 {
   "apps": {
     "status": true,
-    "featured_categories": "",
+    "featured_categories": "Comedy,Romance,Fantasy,Action/Thriller,Mystery,Horror,Other",
     "redirect_url": "",
     "base_url": "https://iwscloud.in/Apps_iws/App026_Korean_Drama/",
     "api_key": "cda11HrOvNoVAGfX65isUjaZSu97BmDbFLlydPg1pnkE48hT0W",
