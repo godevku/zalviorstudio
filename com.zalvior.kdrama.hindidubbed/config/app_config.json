@@ -15,7 +15,7 @@
     "interstitialInterval": 3,
     "bannerStatus": false,
     "interstitialStatus": true,
-    "nativeStatus": false,
+    "nativeStatus": true,
     "rewardedStatus": true,
     "appOpenStatus": true,
     "mainAdmobAppId": "ca-app-pub-4631404232937485~2048258340",
