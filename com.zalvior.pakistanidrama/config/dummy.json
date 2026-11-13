@@ -7,8 +7,14 @@
       "short_description": "An arrogant feudal lord and a fierce, independent village girl are forced into an arranged marriage, leading to an intense clash of egos and unexpected romance.",
       "thumb_prompt": "A cinematic Pakistani drama poster, a handsome arrogant man in a dark embroidered sherwani and a beautiful woman in a stunning red dupatta, looking at each other intensely. Traditional haveli in the background, romantic aesthetic, highly detailed, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-        "https://www.youtube.com/watch?v=eRsGyueVLvQ"
+        {
+          "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+          "video_duration": "10:34"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+          "video_duration": "14:48"
+        }
       ]
     },
     {
@@ -16,8 +22,14 @@
       "short_description": "A heart-wrenching story of a young couple navigating the trials of love, jealousy, and family interference in modern-day Lahore.",
       "thumb_prompt": "A cinematic poster of a handsome Pakistani man in a modern suit and a beautiful woman in an elegant shalwar kameez. Lahore city lights in the background, emotional romantic drama aesthetic, soft lighting, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=WhWc3b3KhnY",
-        "https://www.youtube.com/watch?v=R6MlUcmOul8"
+        {
+          "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+          "video_duration": "12:15"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=R6MlUcmOul8",
+          "video_duration": "08:52"
+        }
       ]
     },
     {
@@ -25,8 +37,14 @@
       "short_description": "Three wealthy families living in a high-society neighborhood hide dark secrets behind their luxurious lifestyles and perfect smiles.",
       "thumb_prompt": "A modern Pakistani suspense drama poster, elegant Asian women in luxurious heavily embroidered dresses standing in a lavish mansion overlooking Karachi. Moody, dramatic, dark aesthetic, betrayal theme, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=TLkA0RELQ1g",
-        "https://www.youtube.com/watch?v=Y-rmzh0PI3c"
+        {
+          "url": "https://www.youtube.com/watch?v=TLkA0RELQ1g",
+          "video_duration": "09:56"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
+          "video_duration": "11:22"
+        }
       ]
     },
     {
@@ -34,8 +52,14 @@
       "short_description": "A carefree rich boy falls deeply in love with a spiritual and pious girl, transforming his life and leading him on a journey of self-discovery.",
       "thumb_prompt": "A soulful Pakistani drama poster, a handsome young man in a simple white kurta looking respectfully at a modest, beautiful woman wearing a hijab. A beautifully lit mosque courtyard at dusk, spiritual romance aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=mN0zPOpADL4",
-        "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+        {
+          "url": "https://www.youtube.com/watch?v=NdZvdhiAvNM",
+          "video_duration": "07:44"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+          "video_duration": "10:34"
+        }
       ]
     },
     {
@@ -43,8 +67,14 @@
       "short_description": "Four best friends from a military academy face the ultimate test of loyalty, love, and sacrifice as they are deployed to the borders.",
       "thumb_prompt": "A military youth drama poster, four handsome young Pakistani men in military cadet uniforms laughing together on a training ground. Friendship, action, and youth aesthetic, bright and inspiring, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=eRsGyueVLvQ",
-        "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+        {
+          "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+          "video_duration": "14:48"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+          "video_duration": "12:15"
+        }
       ]
     },
     {
@@ -52,8 +82,14 @@
       "short_description": "A loyal husband's world crumbles when his ambitious wife leaves him for a wealthy businessman, setting the stage for a bitter emotional fallout.",
       "thumb_prompt": "A tragic Pakistani drama poster, a devastated but dignified man standing alone in a dimly lit room, with the faded silhouette of a glamorous woman walking away. Emotional, melancholic, dark aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=R6MlUcmOul8",
-        "https://www.youtube.com/watch?v=TLkA0RELQ1g"
+        {
+          "url": "https://www.youtube.com/watch?v=R6MlUcmOul8",
+          "video_duration": "08:52"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TLkA0RELQ1g",
+          "video_duration": "09:56"
+        }
       ]
     },
     {
@@ -61,8 +97,14 @@
       "short_description": "A dedicated female doctor fighting for justice crosses paths with a cynical lawyer who has lost his faith in humanity.",
       "thumb_prompt": "A medical legal drama poster, a beautiful Pakistani female doctor in a white coat and a handsome male lawyer in a sharp black suit. Hospital and courtroom split background, professional and romantic aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
-        "https://www.youtube.com/watch?v=mN0zPOpADL4"
+        {
+          "url": "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
+          "video_duration": "11:22"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NdZvdhiAvNM",
+          "video_duration": "07:44"
+        }
       ]
     },
     {
@@ -70,8 +112,14 @@
       "short_description": "A successful filmmaker discovers a series of old letters belonging to his grandfather, uncovering a tragic love story from the 1970s.",
       "thumb_prompt": "A vintage Pakistani drama poster, a modern man reading an old letter, with a faded, nostalgic projection of a 1970s couple in traditional vintage clothing behind him. Warm sepia tones, nostalgic aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-        "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+        {
+          "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+          "video_duration": "10:34"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+          "video_duration": "12:15"
+        }
       ]
     },
     {
@@ -79,8 +127,14 @@
       "short_description": "Two competing university students from different social classes constantly clash, only to realize their rivalry masks a deep mutual attraction.",
       "thumb_prompt": "A bright youth college drama poster, a handsome boy in a casual jacket and a smart girl in a stylish modern kurta holding books, glaring playfully at each other. Vibrant university campus, romantic comedy aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=eRsGyueVLvQ",
-        "https://www.youtube.com/watch?v=TLkA0RELQ1g"
+        {
+          "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+          "video_duration": "14:48"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TLkA0RELQ1g",
+          "video_duration": "09:56"
+        }
       ]
     },
     {
@@ -88,8 +142,14 @@
       "short_description": "A young woman moves to the scenic northern mountains of Pakistan to escape her past, where she meets a mysterious local artist.",
       "thumb_prompt": "A breathtaking scenic drama poster, a beautiful woman in a warm shawl and a ruggedly handsome man standing against the stunning backdrop of the Hunza Valley mountains. Soft cinematic lighting, peaceful and romantic aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=R6MlUcmOul8",
-        "https://www.youtube.com/watch?v=Y-rmzh0PI3c"
+        {
+          "url": "https://www.youtube.com/watch?v=R6MlUcmOul8",
+          "video_duration": "08:52"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
+          "video_duration": "11:22"
+        }
       ]
     },
     {
@@ -97,8 +157,14 @@
       "short_description": "An orphaned young man discovers he is the sole heir to a massive industrial empire, plunging him into a world of corporate greed and family politics.",
       "thumb_prompt": "A corporate thriller drama poster, a young, determined Pakistani man in a tailored three-piece suit standing in a modern corporate boardroom. Blue and gold tones, powerful and tense aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=mN0zPOpADL4",
-        "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+        {
+          "url": "https://www.youtube.com/watch?v=NdZvdhiAvNM",
+          "video_duration": "07:44"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+          "video_duration": "10:34"
+        }
       ]
     },
     {
@@ -106,8 +172,14 @@
       "short_description": "A gripping thriller about a police officer investigating a cold case that forces him to confront the dark history of his own powerful family.",
       "thumb_prompt": "A suspenseful thriller poster, a sharp Pakistani male detective looking at a clue board in a dark room illuminated only by a desk lamp. Gritty, intense, mystery aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=WhWc3b3KhnY",
-        "https://www.youtube.com/watch?v=eRsGyueVLvQ"
+        {
+          "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+          "video_duration": "12:15"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+          "video_duration": "14:48"
+        }
       ]
     },
     {
@@ -115,8 +187,14 @@
       "short_description": "A multi-generational saga exploring the complex relationships, sacrifices, and unconditional love within a large joint family living in a traditional courtyard house.",
       "thumb_prompt": "A heartwarming family drama poster, a large, happy Pakistani family of different generations sitting together in a beautifully decorated traditional haveli courtyard. Warm golden hour lighting, slice of life aesthetic, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=TLkA0RELQ1g",
-        "https://www.youtube.com/watch?v=R6MlUcmOul8"
+        {
+          "url": "https://www.youtube.com/watch?v=TLkA0RELQ1g",
+          "video_duration": "09:56"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=R6MlUcmOul8",
+          "video_duration": "08:52"
+        }
       ]
     },
     {
@@ -124,8 +202,14 @@
       "short_description": "A fierce historical epic detailing the rise and fall of a forgotten kingdom, focusing on the betrayal of a trusted commander.",
       "thumb_prompt": "A historical epic drama poster, a majestic Pakistani warrior in historical armor holding a sword, standing on a battlefield at sunset. Grand cinematic scale, intense and dramatic aesthetic, rich reds and golds, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
-        "https://www.youtube.com/watch?v=mN0zPOpADL4"
+        {
+          "url": "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
+          "video_duration": "11:22"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NdZvdhiAvNM",
+          "video_duration": "07:44"
+        }
       ]
     },
     {
@@ -133,8 +217,14 @@
       "short_description": "A lighthearted festive special about three cousins trying to organize the perfect Eid family gathering despite endless chaotic mishaps.",
       "thumb_prompt": "A festive comedy drama poster, three cheerful young adults in vibrant, colorful Eid clothes (kurta and shalwar kameez) trying to hold a large platter of sweets. Bright, festive, colorful aesthetic, joyful, no text.",
       "episodes": [
-        "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-        "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+        {
+          "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+          "video_duration": "10:34"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+          "video_duration": "12:15"
+        }
       ]
     }
   ]
