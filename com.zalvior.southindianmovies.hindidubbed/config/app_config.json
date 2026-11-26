@@ -6,7 +6,7 @@
     "application_id": "com.zalvior.southmovies.hindidubbed",
     "dummy_base_url": "https://cdrama.lumixa.id/",
     "dummy_api_key": "cda11RhQPc1z2limGFWoxvjwrCSfpJEYOqHsB38AZgTekNVXM9",
-	"dummy_version_code": 1,
+	"dummy_version_code": 0,
 	"base_url": "https://iwscloud.in/Apps_iws/App002_South_movies/",
     "api_key": "cda11ZBNeyfXjDcqw2Ot3kAYJpGULbVTPQ7g0I1E6xr8oihHMn",
     "privacy_policy_url": "https://zalviorstudio.blogspot.com/p/privacy-policy-south-movies.html",
@@ -15,7 +15,7 @@
   "ads": {
     "mainAds": "admob",
     "backupAds": "none",
-    "adStatus": false,
+    "adStatus": true,
     "interstitialInterval": 2,
     "bannerStatus": false,
     "interstitialStatus": true,
